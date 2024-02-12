@@ -20,7 +20,7 @@ sudo apt install chromium-browser chromium-chromedriver
 
 # Add the python script at startup
 ```
-#Copy file to /bin
+//Copy file to /bin
 
 sudo cp /path/to file/file /bin
 
